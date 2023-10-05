@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab 3</string>
+    <string name="prompt">Entrez votre nom</string>
+    <string name="nextButton">SUIVANTE</string>
+    <string name="welcome">Bienvenue!</string>
+    <string name="undoButton">NE M\'APPELLE PAS COMME CA!</string>
+    <string name="thanksButton">MERCI!</string>
+</resources>
